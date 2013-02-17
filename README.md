@@ -4,7 +4,7 @@ sencha-auto-hide-messagebox
 
 ## Outline
 
-This is custom messagebox (extend Ext.MessageBox). This MessageBox is hide automatically
+This is utility for  messagebox. This MessageBox is hide automatically
 
 ## Function
 
