@@ -32,12 +32,13 @@ Ext.define('Ext.ux.touch.AutoHideMessageBox', {
      */
     alert:function (obj) {
         var me = this,
-            interval = obj.interval || me.interval,
+            param = obj || {},
+            interval = param.interval || me.interval,
             instance = me.instance,
-            title = obj.title || '',
-            message = obj.message || '',
-            callback = obj.callback || Ext.emptyFn,
-            scope = obj.scope || window;
+            title = param.title || '',
+            message = param.message || '',
+            callback = param.callback || Ext.emptyFn,
+            scope = param.scope || window;
 
         instance.on('show', function () {
             Ext.defer(function(){
