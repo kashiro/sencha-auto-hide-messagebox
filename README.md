@@ -1,10 +1,10 @@
 sencha-auto-hide-messagebox
 ========================
-
+[![Build Status](https://travis-ci.org/kashiro/sencha-auto-hide-messagebox.png?branch=master)](https://travis-ci.org/kashiro/sencha-auto-hide-messagebox)
 
 ## Outline
 
-This is utility for  messagebox. This MessageBox is hide automatically
+This is utility for  messagebox. This MessageBox hide automatically
 
 ## Function
 
