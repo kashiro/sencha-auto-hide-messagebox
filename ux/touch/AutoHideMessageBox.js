@@ -4,7 +4,7 @@
  * @class Ext.ux.touch.AutoHideMessageBox
  * @version 0.1.0
  * @author Tomoyuki Kashiro <kashiro@github>
- * @license
+ * @license MIT
  */
 Ext.define('Ext.ux.touch.AutoHideMessageBox', {
 
