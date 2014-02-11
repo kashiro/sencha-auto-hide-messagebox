@@ -1,12 +1,12 @@
 {
   "name": "sencha-auto-hide-messagebox",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/kashiro/sencha-auto-hide-messagebox",
   "authors": [
     "Tomoyuki Kashiro <ksrtmyk@gmail.com>"
   ],
   "description": "This is senchatouch utility for messagebox. This MessageBox hide automatically.",
-  "main": "ux/touch/AutoHideMessageBox.js",
+  "main": "app/ux/touch/AutoHideMessageBox.js",
   "keywords": [
     "senchatouch",
     "messagebox",
@@ -14,20 +14,21 @@
   ],
   "license": "MIT",
   "ignore": [
-    "app/touch",
-    "app/test",
-    "app/resources",
-    "app/packager.json",
-    "app/package.json",
-    "app/node_modules",
-    "app/index.html",
-    "app/build.xml",
-    "app/build",
-    "app/bower.json",
-    "app/app.json",
-    "app/app.js",
-    "app/app",
+    ".sencha",
+    "app",
+    "app.js",
+    "app.json",
+    "bootstrap.js",
+    "bootstrap.json",
+    "build",
+    "build.xml",
+    "index.html",
+    "packager.json",
+    "packages",
+    "resources",
+    "touch",
     "README.md",
+    "test",
     "**/.*"
   ]
 }
