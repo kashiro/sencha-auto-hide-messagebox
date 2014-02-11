@@ -2,7 +2,7 @@
  * Message box which hide automatically
  *
  * @class Ext.ux.touch.AutoHideMessageBox
- * @version 0.1.4
+ * @version 0.1.5
  * @author Tomoyuki Kashiro <kashiro@github>
  * @license MIT
  */

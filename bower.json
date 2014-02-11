@@ -1,6 +1,6 @@
 {
   "name": "sencha-auto-hide-messagebox",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/kashiro/sencha-auto-hide-messagebox",
   "authors": [
     "Tomoyuki Kashiro <ksrtmyk@gmail.com>"
@@ -17,6 +17,7 @@
     "Gruntfile.js",
     "bower.json",
     "package.json",
+    "app/app",
     "app/.sencha",
     "app/app.js",
     "app/app.json",
